@@ -1,1 +1,1 @@
-﻿demo for git is added to server
+﻿demo for git is added to repository
